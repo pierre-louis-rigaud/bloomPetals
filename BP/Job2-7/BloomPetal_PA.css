@@ -75,7 +75,7 @@ header{
     text-align: center;
 }
 #intro a{
-    color: rgb(148, 148, 132);  
+    color: rgb(100, 100, 81);  
     text-decoration: none;
 }
 #logo {
@@ -85,7 +85,23 @@ header{
     font-family: 'Pacifico';
 }
 
-
+.images{   
+    display: flex;
+    justify-content: center;
+}
+.images1{
+    width: 200px;
+    height: 145px;
+    border-radius: 15px;
+}
+.images2{
+    width: 200px;
+    height: 145px;
+    border-radius: 15px;
+}
+#image1{
+    border-style: 2px solid;
+}
 
 .border { 
     border-top: 3px solid hsl(0, 0%, 0%)00;
