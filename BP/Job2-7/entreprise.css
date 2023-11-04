@@ -68,13 +68,6 @@ header{
     align-items: end;
 }
 
-/* Style du corps de la page */
-body {
-    background: url("images/bgbox.png");
-    /* Ajout d'une image de fond */
-    background-size: cover;
-    background-attachment: fixed;
-}
 
 /* Style de la section "Equipe" */
 .equipe {
